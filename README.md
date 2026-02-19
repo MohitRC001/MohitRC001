@@ -35,6 +35,7 @@ Currently, I am:
 
 **Database**
 - MongoDB
+- SQL
 
 **Programming Languages**
 - JavaScript
